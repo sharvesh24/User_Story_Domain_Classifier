@@ -80,14 +80,7 @@ To build a lightweight, accurate classifier that categorizes user stories into *
 | pandas          | Data manipulation                       |
 | scikit-learn    | Label encoding, train-test split        |
 
----
 
-## 👥 Authors
-
-- **Neha Raj C**  
-- **Dheeraj**  
-
-Special thanks to our team for manual data labeling and validation!
 
 ---
 
